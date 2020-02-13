@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_437799_get_user.get_user_user" name="x_437799_get_user.get_user_user">985cde352ff68410b09c11c82799b613</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-07 01:43:27</sys_created_on>
+        <sys_id>d05c56f12fba8410b09c11c82799b69a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>985cde352ff68410b09c11c82799b613</sys_name>
+        <sys_package display_value="Get User" source="x_437799_get_user">285b927d2f7a8410b09c11c82799b6dc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Get User">285b927d2f7a8410b09c11c82799b6dc</sys_scope>
+        <sys_update_name>sys_embedded_help_role_d05c56f12fba8410b09c11c82799b69a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-07 01:43:27</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
